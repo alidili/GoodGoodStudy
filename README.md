@@ -16,6 +16,8 @@
 
 - [2021实践](https://github.com/alidili/GoodGoodStudy/tree/main/%E8%87%AA%E8%80%83%E5%AE%9E%E8%B7%B5/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%EF%BC%8802333%EF%BC%89/2021)
 
+- [2010实践](https://github.com/alidili/GoodGoodStudy/tree/main/%E8%87%AA%E8%80%83%E5%AE%9E%E8%B7%B5/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%EF%BC%8802333%EF%BC%89/2010)
+
 ## License
 
 ```
