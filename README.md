@@ -30,7 +30,11 @@
 
 ## 数据结构（02331）
 
+- [2021实践](https://github.com/alidili/GoodGoodStudy/tree/main/%E8%87%AA%E8%80%83%E5%AE%9E%E8%B7%B5/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%8802331%EF%BC%89/2021)
+
 - [2022实践](https://github.com/alidili/GoodGoodStudy/tree/main/%E8%87%AA%E8%80%83%E5%AE%9E%E8%B7%B5/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%8802331%EF%BC%89/2022)
+
+- [示例一]()
 
 ## License
 
