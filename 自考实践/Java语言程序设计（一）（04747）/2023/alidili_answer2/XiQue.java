@@ -1,0 +1,22 @@
+package com.yangle.exam;
+
+/**
+ * œ≤»µ
+ * 
+ * @author —Ó¿÷
+ *
+ */
+public class XiQue extends Bird {
+
+	// Ω≈ª∑¬Î
+	private int code;
+
+	public XiQue(int days, int code) {
+		super(days);
+		this.code = code;
+	}
+
+	public int getCode() {
+		return code;
+	}
+}
